@@ -32,7 +32,7 @@
 .introduction {
     position: relative;
     background: #ff951c;
-    background-image: url('/assets/img/aesthetic.png');
+    background-image: url('/img/aesthetic.png');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     text-align: center;
